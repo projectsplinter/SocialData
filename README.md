@@ -9,6 +9,8 @@ This also contains code for security login.
 Use only for educational purposes.
 API license key are there for a limited time only.
 
+Topics trending on Twitter location wise.
+
 
 Made by:-
     ISHAN GARG and
