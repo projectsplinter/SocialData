@@ -1,0 +1,468 @@
+﻿name,placeType,url,parentid,country,woeid,countryCode
+Worldwide,19|Supername,http://where.yahooapis.com/v1/place/1,0,,1,
+Winnipeg,7|Town,http://where.yahooapis.com/v1/place/2972,23424775,Canada,2972,CA
+Ottawa,7|Town,http://where.yahooapis.com/v1/place/3369,23424775,Canada,3369,CA
+Quebec,7|Town,http://where.yahooapis.com/v1/place/3444,23424775,Canada,3444,CA
+Montreal,7|Town,http://where.yahooapis.com/v1/place/3534,23424775,Canada,3534,CA
+Toronto,7|Town,http://where.yahooapis.com/v1/place/4118,23424775,Canada,4118,CA
+Edmonton,7|Town,http://where.yahooapis.com/v1/place/8676,23424775,Canada,8676,CA
+Calgary,7|Town,http://where.yahooapis.com/v1/place/8775,23424775,Canada,8775,CA
+Vancouver,7|Town,http://where.yahooapis.com/v1/place/9807,23424775,Canada,9807,CA
+Birmingham,7|Town,http://where.yahooapis.com/v1/place/12723,23424975,United Kingdom,12723,GB
+Blackpool,7|Town,http://where.yahooapis.com/v1/place/12903,23424975,United Kingdom,12903,GB
+Bournemouth,7|Town,http://where.yahooapis.com/v1/place/13383,23424975,United Kingdom,13383,GB
+Brighton,7|Town,http://where.yahooapis.com/v1/place/13911,23424975,United Kingdom,13911,GB
+Bristol,7|Town,http://where.yahooapis.com/v1/place/13963,23424975,United Kingdom,13963,GB
+Cardiff,7|Town,http://where.yahooapis.com/v1/place/15127,23424975,United Kingdom,15127,GB
+Coventry,7|Town,http://where.yahooapis.com/v1/place/17044,23424975,United Kingdom,17044,GB
+Derby,7|Town,http://where.yahooapis.com/v1/place/18114,23424975,United Kingdom,18114,GB
+Edinburgh,7|Town,http://where.yahooapis.com/v1/place/19344,23424975,United Kingdom,19344,GB
+Glasgow,7|Town,http://where.yahooapis.com/v1/place/21125,23424975,United Kingdom,21125,GB
+Hull,7|Town,http://where.yahooapis.com/v1/place/25211,23424975,United Kingdom,25211,GB
+Leeds,7|Town,http://where.yahooapis.com/v1/place/26042,23424975,United Kingdom,26042,GB
+Leicester,7|Town,http://where.yahooapis.com/v1/place/26062,23424975,United Kingdom,26062,GB
+Liverpool,7|Town,http://where.yahooapis.com/v1/place/26734,23424975,United Kingdom,26734,GB
+Manchester,7|Town,http://where.yahooapis.com/v1/place/28218,23424975,United Kingdom,28218,GB
+Middlesbrough,7|Town,http://where.yahooapis.com/v1/place/28869,23424975,United Kingdom,28869,GB
+Newcastle,7|Town,http://where.yahooapis.com/v1/place/30079,23424975,United Kingdom,30079,GB
+Nottingham,7|Town,http://where.yahooapis.com/v1/place/30720,23424975,United Kingdom,30720,GB
+Plymouth,7|Town,http://where.yahooapis.com/v1/place/32185,23424975,United Kingdom,32185,GB
+Portsmouth,7|Town,http://where.yahooapis.com/v1/place/32452,23424975,United Kingdom,32452,GB
+Preston,7|Town,http://where.yahooapis.com/v1/place/32566,23424975,United Kingdom,32566,GB
+Sheffield,7|Town,http://where.yahooapis.com/v1/place/34503,23424975,United Kingdom,34503,GB
+Stoke-on-Trent,7|Town,http://where.yahooapis.com/v1/place/36240,23424975,United Kingdom,36240,GB
+Swansea,7|Town,http://where.yahooapis.com/v1/place/36758,23424975,United Kingdom,36758,GB
+London,7|Town,http://where.yahooapis.com/v1/place/44418,23424975,United Kingdom,44418,GB
+Belfast,7|Town,http://where.yahooapis.com/v1/place/44544,23424975,United Kingdom,44544,GB
+Santo Domingo,7|Town,http://where.yahooapis.com/v1/place/76456,23424800,Dominican Republic,76456,DO
+Guatemala City,7|Town,http://where.yahooapis.com/v1/place/83123,23424834,Guatemala,83123,GT
+Acapulco,7|Town,http://where.yahooapis.com/v1/place/110978,23424900,Mexico,110978,MX
+Aguascalientes,7|Town,http://where.yahooapis.com/v1/place/111579,23424900,Mexico,111579,MX
+Chihuahua,7|Town,http://where.yahooapis.com/v1/place/115958,23424900,Mexico,115958,MX
+Mexico City,7|Town,http://where.yahooapis.com/v1/place/116545,23424900,Mexico,116545,MX
+Ciudad Juarez,7|Town,http://where.yahooapis.com/v1/place/116556,23424900,Mexico,116556,MX
+Nezahualcóyotl,7|Town,http://where.yahooapis.com/v1/place/116564,23424900,Mexico,116564,MX
+Culiacán,7|Town,http://where.yahooapis.com/v1/place/117994,23424900,Mexico,117994,MX
+Ecatepec de Morelos,7|Town,http://where.yahooapis.com/v1/place/118466,23424900,Mexico,118466,MX
+Guadalajara,7|Town,http://where.yahooapis.com/v1/place/124162,23424900,Mexico,124162,MX
+Hermosillo,7|Town,http://where.yahooapis.com/v1/place/124785,23424900,Mexico,124785,MX
+León,7|Town,http://where.yahooapis.com/v1/place/131068,23424900,Mexico,131068,MX
+Mérida,7|Town,http://where.yahooapis.com/v1/place/133327,23424900,Mexico,133327,MX
+Mexicali,7|Town,http://where.yahooapis.com/v1/place/133475,23424900,Mexico,133475,MX
+Monterrey,7|Town,http://where.yahooapis.com/v1/place/134047,23424900,Mexico,134047,MX
+Morelia,7|Town,http://where.yahooapis.com/v1/place/134091,23424900,Mexico,134091,MX
+Naucalpan de Juárez,7|Town,http://where.yahooapis.com/v1/place/134395,23424900,Mexico,134395,MX
+Puebla,7|Town,http://where.yahooapis.com/v1/place/137612,23424900,Mexico,137612,MX
+Querétaro,7|Town,http://where.yahooapis.com/v1/place/138045,23424900,Mexico,138045,MX
+Saltillo,7|Town,http://where.yahooapis.com/v1/place/141272,23424900,Mexico,141272,MX
+San Luis Potosí,7|Town,http://where.yahooapis.com/v1/place/144265,23424900,Mexico,144265,MX
+Tijuana,7|Town,http://where.yahooapis.com/v1/place/149361,23424900,Mexico,149361,MX
+Toluca,7|Town,http://where.yahooapis.com/v1/place/149769,23424900,Mexico,149769,MX
+Zapopan,7|Town,http://where.yahooapis.com/v1/place/151582,23424900,Mexico,151582,MX
+Mendoza,7|Town,http://where.yahooapis.com/v1/place/332471,23424747,Argentina,332471,AR
+Santiago,7|Town,http://where.yahooapis.com/v1/place/349859,23424782,Chile,349859,CL
+Concepcion,7|Town,http://where.yahooapis.com/v1/place/349860,23424782,Chile,349860,CL
+Valparaiso,7|Town,http://where.yahooapis.com/v1/place/349861,23424782,Chile,349861,CL
+Bogotá,7|Town,http://where.yahooapis.com/v1/place/368148,23424787,Colombia,368148,CO
+Cali,7|Town,http://where.yahooapis.com/v1/place/368149,23424787,Colombia,368149,CO
+Medellín,7|Town,http://where.yahooapis.com/v1/place/368150,23424787,Colombia,368150,CO
+Barranquilla,7|Town,http://where.yahooapis.com/v1/place/368151,23424787,Colombia,368151,CO
+Quito,7|Town,http://where.yahooapis.com/v1/place/375732,23424801,Ecuador,375732,EC
+Guayaquil,7|Town,http://where.yahooapis.com/v1/place/375733,23424801,Ecuador,375733,EC
+Caracas,7|Town,http://where.yahooapis.com/v1/place/395269,23424982,Venezuela,395269,VE
+Maracaibo,7|Town,http://where.yahooapis.com/v1/place/395270,23424982,Venezuela,395270,VE
+Maracay,7|Town,http://where.yahooapis.com/v1/place/395271,23424982,Venezuela,395271,VE
+Valencia,7|Town,http://where.yahooapis.com/v1/place/395272,23424982,Venezuela,395272,VE
+Barcelona,7|Town,http://where.yahooapis.com/v1/place/395273,23424982,Venezuela,395273,VE
+Ciudad Guayana,7|Town,http://where.yahooapis.com/v1/place/395275,23424982,Venezuela,395275,VE
+Turmero,7|Town,http://where.yahooapis.com/v1/place/395277,23424982,Venezuela,395277,VE
+Lima,7|Town,http://where.yahooapis.com/v1/place/418440,23424919,Peru,418440,PE
+Brasília,7|Town,http://where.yahooapis.com/v1/place/455819,23424768,Brazil,455819,BR
+Belém,7|Town,http://where.yahooapis.com/v1/place/455820,23424768,Brazil,455820,BR
+Belo Horizonte,7|Town,http://where.yahooapis.com/v1/place/455821,23424768,Brazil,455821,BR
+Curitiba,7|Town,http://where.yahooapis.com/v1/place/455822,23424768,Brazil,455822,BR
+Porto Alegre,7|Town,http://where.yahooapis.com/v1/place/455823,23424768,Brazil,455823,BR
+Recife,7|Town,http://where.yahooapis.com/v1/place/455824,23424768,Brazil,455824,BR
+Rio de Janeiro,7|Town,http://where.yahooapis.com/v1/place/455825,23424768,Brazil,455825,BR
+Salvador,7|Town,http://where.yahooapis.com/v1/place/455826,23424768,Brazil,455826,BR
+São Paulo,7|Town,http://where.yahooapis.com/v1/place/455827,23424768,Brazil,455827,BR
+Campinas,7|Town,http://where.yahooapis.com/v1/place/455828,23424768,Brazil,455828,BR
+Fortaleza,7|Town,http://where.yahooapis.com/v1/place/455830,23424768,Brazil,455830,BR
+Goiânia,7|Town,http://where.yahooapis.com/v1/place/455831,23424768,Brazil,455831,BR
+Manaus,7|Town,http://where.yahooapis.com/v1/place/455833,23424768,Brazil,455833,BR
+São Luís,7|Town,http://where.yahooapis.com/v1/place/455834,23424768,Brazil,455834,BR
+Guarulhos,7|Town,http://where.yahooapis.com/v1/place/455867,23424768,Brazil,455867,BR
+Córdoba,7|Town,http://where.yahooapis.com/v1/place/466861,23424747,Argentina,466861,AR
+Rosario,7|Town,http://where.yahooapis.com/v1/place/466862,23424747,Argentina,466862,AR
+Barquisimeto,7|Town,http://where.yahooapis.com/v1/place/468382,23424982,Venezuela,468382,VE
+Maturín,7|Town,http://where.yahooapis.com/v1/place/468384,23424982,Venezuela,468384,VE
+Buenos Aires,7|Town,http://where.yahooapis.com/v1/place/468739,23424747,Argentina,468739,AR
+Gdańsk,7|Town,http://where.yahooapis.com/v1/place/493417,23424923,Poland,493417,PL
+Kraków,7|Town,http://where.yahooapis.com/v1/place/502075,23424923,Poland,502075,PL
+Lodz,7|Town,http://where.yahooapis.com/v1/place/505120,23424923,Poland,505120,PL
+Poznań,7|Town,http://where.yahooapis.com/v1/place/514048,23424923,Poland,514048,PL
+Warsaw,7|Town,http://where.yahooapis.com/v1/place/523920,23424923,Poland,523920,PL
+Wroclaw,7|Town,http://where.yahooapis.com/v1/place/526363,23424923,Poland,526363,PL
+Vienna,7|Town,http://where.yahooapis.com/v1/place/551801,23424750,Austria,551801,AT
+Cork,7|Town,http://where.yahooapis.com/v1/place/560472,23424803,Ireland,560472,IE
+Dublin,7|Town,http://where.yahooapis.com/v1/place/560743,23424803,Ireland,560743,IE
+Galway,7|Town,http://where.yahooapis.com/v1/place/560912,23424803,Ireland,560912,IE
+Bordeaux,7|Town,http://where.yahooapis.com/v1/place/580778,23424819,France,580778,FR
+Lille,7|Town,http://where.yahooapis.com/v1/place/608105,23424819,France,608105,FR
+Lyon,7|Town,http://where.yahooapis.com/v1/place/609125,23424819,France,609125,FR
+Marseille,7|Town,http://where.yahooapis.com/v1/place/610264,23424819,France,610264,FR
+Montpellier,7|Town,http://where.yahooapis.com/v1/place/612977,23424819,France,612977,FR
+Nantes,7|Town,http://where.yahooapis.com/v1/place/613858,23424819,France,613858,FR
+Paris,7|Town,http://where.yahooapis.com/v1/place/615702,23424819,France,615702,FR
+Rennes,7|Town,http://where.yahooapis.com/v1/place/619163,23424819,France,619163,FR
+Strasbourg,7|Town,http://where.yahooapis.com/v1/place/627791,23424819,France,627791,FR
+Toulouse,7|Town,http://where.yahooapis.com/v1/place/628886,23424819,France,628886,FR
+Berlin,7|Town,http://where.yahooapis.com/v1/place/638242,23424829,Germany,638242,DE
+Bremen,7|Town,http://where.yahooapis.com/v1/place/641142,23424829,Germany,641142,DE
+Dortmund,7|Town,http://where.yahooapis.com/v1/place/645458,23424829,Germany,645458,DE
+Dresden,7|Town,http://where.yahooapis.com/v1/place/645686,23424829,Germany,645686,DE
+Dusseldorf,7|Town,http://where.yahooapis.com/v1/place/646099,23424829,Germany,646099,DE
+Essen,7|Town,http://where.yahooapis.com/v1/place/648820,23424829,Germany,648820,DE
+Frankfurt,7|Town,http://where.yahooapis.com/v1/place/650272,23424829,Germany,650272,DE
+Hamburg,7|Town,http://where.yahooapis.com/v1/place/656958,23424829,Germany,656958,DE
+Cologne,7|Town,http://where.yahooapis.com/v1/place/667931,23424829,Germany,667931,DE
+Leipzig,7|Town,http://where.yahooapis.com/v1/place/671072,23424829,Germany,671072,DE
+Munich,7|Town,http://where.yahooapis.com/v1/place/676757,23424829,Germany,676757,DE
+Stuttgart,7|Town,http://where.yahooapis.com/v1/place/698064,23424829,Germany,698064,DE
+Bologna,7|Town,http://where.yahooapis.com/v1/place/711080,23424853,Italy,711080,IT
+Genoa,7|Town,http://where.yahooapis.com/v1/place/716085,23424853,Italy,716085,IT
+Milan,7|Town,http://where.yahooapis.com/v1/place/718345,23424853,Italy,718345,IT
+Naples,7|Town,http://where.yahooapis.com/v1/place/719258,23424853,Italy,719258,IT
+Palermo,7|Town,http://where.yahooapis.com/v1/place/719846,23424853,Italy,719846,IT
+Rome,7|Town,http://where.yahooapis.com/v1/place/721943,23424853,Italy,721943,IT
+Turin,7|Town,http://where.yahooapis.com/v1/place/725003,23424853,Italy,725003,IT
+Den Haag,7|Town,http://where.yahooapis.com/v1/place/726874,23424909,Netherlands,726874,NL
+Amsterdam,7|Town,http://where.yahooapis.com/v1/place/727232,23424909,Netherlands,727232,NL
+Rotterdam,7|Town,http://where.yahooapis.com/v1/place/733075,23424909,Netherlands,733075,NL
+Utrecht,7|Town,http://where.yahooapis.com/v1/place/734047,23424909,Netherlands,734047,NL
+Barcelona,7|Town,http://where.yahooapis.com/v1/place/753692,23424950,Spain,753692,ES
+Bilbao,7|Town,http://where.yahooapis.com/v1/place/754542,23424950,Spain,754542,ES
+Las Palmas,7|Town,http://where.yahooapis.com/v1/place/764814,23424950,Spain,764814,ES
+Madrid,7|Town,http://where.yahooapis.com/v1/place/766273,23424950,Spain,766273,ES
+Malaga,7|Town,http://where.yahooapis.com/v1/place/766356,23424950,Spain,766356,ES
+Murcia,7|Town,http://where.yahooapis.com/v1/place/768026,23424950,Spain,768026,ES
+Palma,7|Town,http://where.yahooapis.com/v1/place/769293,23424950,Spain,769293,ES
+Seville,7|Town,http://where.yahooapis.com/v1/place/774508,23424950,Spain,774508,ES
+Valencia,7|Town,http://where.yahooapis.com/v1/place/776688,23424950,Spain,776688,ES
+Zaragoza,7|Town,http://where.yahooapis.com/v1/place/779063,23424950,Spain,779063,ES
+Geneva,7|Town,http://where.yahooapis.com/v1/place/782538,23424957,Switzerland,782538,CH
+Lausanne,7|Town,http://where.yahooapis.com/v1/place/783058,23424957,Switzerland,783058,CH
+Zurich,7|Town,http://where.yahooapis.com/v1/place/784794,23424957,Switzerland,784794,CH
+Brest,7|Town,http://where.yahooapis.com/v1/place/824382,23424765,Belarus,824382,BY
+Grodno,7|Town,http://where.yahooapis.com/v1/place/825848,23424765,Belarus,825848,BY
+Gomel,7|Town,http://where.yahooapis.com/v1/place/825978,23424765,Belarus,825978,BY
+Minsk,7|Town,http://where.yahooapis.com/v1/place/834463,23424765,Belarus,834463,BY
+Riga,7|Town,http://where.yahooapis.com/v1/place/854823,23424874,Latvia,854823,LV
+Bergen,7|Town,http://where.yahooapis.com/v1/place/857105,23424910,Norway,857105,NO
+Oslo,7|Town,http://where.yahooapis.com/v1/place/862592,23424910,Norway,862592,NO
+Gothenburg,7|Town,http://where.yahooapis.com/v1/place/890869,23424954,Sweden,890869,SE
+Stockholm,7|Town,http://where.yahooapis.com/v1/place/906057,23424954,Sweden,906057,SE
+Dnipropetrovsk,7|Town,http://where.yahooapis.com/v1/place/918981,23424976,Ukraine,918981,UA
+Donetsk,7|Town,http://where.yahooapis.com/v1/place/919163,23424976,Ukraine,919163,UA
+Kharkiv,7|Town,http://where.yahooapis.com/v1/place/922137,23424976,Ukraine,922137,UA
+Kyiv,7|Town,http://where.yahooapis.com/v1/place/924938,23424976,Ukraine,924938,UA
+Lviv,7|Town,http://where.yahooapis.com/v1/place/924943,23424976,Ukraine,924943,UA
+Odesa,7|Town,http://where.yahooapis.com/v1/place/929398,23424976,Ukraine,929398,UA
+Zaporozhye,7|Town,http://where.yahooapis.com/v1/place/939628,23424976,Ukraine,939628,UA
+Athens,7|Town,http://where.yahooapis.com/v1/place/946738,23424833,Greece,946738,GR
+Thessaloniki,7|Town,http://where.yahooapis.com/v1/place/963291,23424833,Greece,963291,GR
+Bekasi,7|Town,http://where.yahooapis.com/v1/place/1030077,23424846,Indonesia,1030077,ID
+Depok,7|Town,http://where.yahooapis.com/v1/place/1032539,23424846,Indonesia,1032539,ID
+Pekanbaru,7|Town,http://where.yahooapis.com/v1/place/1040779,23424846,Indonesia,1040779,ID
+Surabaya,7|Town,http://where.yahooapis.com/v1/place/1044316,23424846,Indonesia,1044316,ID
+Makassar,7|Town,http://where.yahooapis.com/v1/place/1046138,23424846,Indonesia,1046138,ID
+Bandung,7|Town,http://where.yahooapis.com/v1/place/1047180,23424846,Indonesia,1047180,ID
+Jakarta,7|Town,http://where.yahooapis.com/v1/place/1047378,23424846,Indonesia,1047378,ID
+Medan,7|Town,http://where.yahooapis.com/v1/place/1047908,23424846,Indonesia,1047908,ID
+Palembang,7|Town,http://where.yahooapis.com/v1/place/1048059,23424846,Indonesia,1048059,ID
+Semarang,7|Town,http://where.yahooapis.com/v1/place/1048324,23424846,Indonesia,1048324,ID
+Tangerang,7|Town,http://where.yahooapis.com/v1/place/1048536,23424846,Indonesia,1048536,ID
+Singapore,7|Town,http://where.yahooapis.com/v1/place/1062617,23424948,Singapore,1062617,SG
+Perth,7|Town,http://where.yahooapis.com/v1/place/1098081,23424748,Australia,1098081,AU
+Adelaide,7|Town,http://where.yahooapis.com/v1/place/1099805,23424748,Australia,1099805,AU
+Brisbane,7|Town,http://where.yahooapis.com/v1/place/1100661,23424748,Australia,1100661,AU
+Canberra,7|Town,http://where.yahooapis.com/v1/place/1100968,23424748,Australia,1100968,AU
+Darwin,7|Town,http://where.yahooapis.com/v1/place/1101597,23424748,Australia,1101597,AU
+Melbourne,7|Town,http://where.yahooapis.com/v1/place/1103816,23424748,Australia,1103816,AU
+Sydney,7|Town,http://where.yahooapis.com/v1/place/1105779,23424748,Australia,1105779,AU
+Kitakyushu,7|Town,http://where.yahooapis.com/v1/place/1110809,23424856,Japan,1110809,JP
+Saitama,7|Town,http://where.yahooapis.com/v1/place/1116753,23424856,Japan,1116753,JP
+Chiba,7|Town,http://where.yahooapis.com/v1/place/1117034,23424856,Japan,1117034,JP
+Fukuoka,7|Town,http://where.yahooapis.com/v1/place/1117099,23424856,Japan,1117099,JP
+Hamamatsu,7|Town,http://where.yahooapis.com/v1/place/1117155,23424856,Japan,1117155,JP
+Hiroshima,7|Town,http://where.yahooapis.com/v1/place/1117227,23424856,Japan,1117227,JP
+Kawasaki,7|Town,http://where.yahooapis.com/v1/place/1117502,23424856,Japan,1117502,JP
+Kobe,7|Town,http://where.yahooapis.com/v1/place/1117545,23424856,Japan,1117545,JP
+Kumamoto,7|Town,http://where.yahooapis.com/v1/place/1117605,23424856,Japan,1117605,JP
+Nagoya,7|Town,http://where.yahooapis.com/v1/place/1117817,23424856,Japan,1117817,JP
+Niigata,7|Town,http://where.yahooapis.com/v1/place/1117881,23424856,Japan,1117881,JP
+Sagamihara,7|Town,http://where.yahooapis.com/v1/place/1118072,23424856,Japan,1118072,JP
+Sapporo,7|Town,http://where.yahooapis.com/v1/place/1118108,23424856,Japan,1118108,JP
+Sendai,7|Town,http://where.yahooapis.com/v1/place/1118129,23424856,Japan,1118129,JP
+Takamatsu,7|Town,http://where.yahooapis.com/v1/place/1118285,23424856,Japan,1118285,JP
+Tokyo,7|Town,http://where.yahooapis.com/v1/place/1118370,23424856,Japan,1118370,JP
+Yokohama,7|Town,http://where.yahooapis.com/v1/place/1118550,23424856,Japan,1118550,JP
+Goyang,7|Town,http://where.yahooapis.com/v1/place/1130853,23424868,Korea,1130853,KR
+Yongin,7|Town,http://where.yahooapis.com/v1/place/1132094,23424868,Korea,1132094,KR
+Ansan,7|Town,http://where.yahooapis.com/v1/place/1132444,23424868,Korea,1132444,KR
+Bucheon,7|Town,http://where.yahooapis.com/v1/place/1132445,23424868,Korea,1132445,KR
+Busan,7|Town,http://where.yahooapis.com/v1/place/1132447,23424868,Korea,1132447,KR
+Changwon,7|Town,http://where.yahooapis.com/v1/place/1132449,23424868,Korea,1132449,KR
+Daegu,7|Town,http://where.yahooapis.com/v1/place/1132466,23424868,Korea,1132466,KR
+Gwangju,7|Town,http://where.yahooapis.com/v1/place/1132481,23424868,Korea,1132481,KR
+Incheon,7|Town,http://where.yahooapis.com/v1/place/1132496,23424868,Korea,1132496,KR
+Seongnam,7|Town,http://where.yahooapis.com/v1/place/1132559,23424868,Korea,1132559,KR
+Suwon,7|Town,http://where.yahooapis.com/v1/place/1132567,23424868,Korea,1132567,KR
+Ulsan,7|Town,http://where.yahooapis.com/v1/place/1132578,23424868,Korea,1132578,KR
+Seoul,7|Town,http://where.yahooapis.com/v1/place/1132599,23424868,Korea,1132599,KR
+Kajang,7|Town,http://where.yahooapis.com/v1/place/1141268,23424901,Malaysia,1141268,MY
+Ipoh,7|Town,http://where.yahooapis.com/v1/place/1154679,23424901,Malaysia,1154679,MY
+Johor Bahru,7|Town,http://where.yahooapis.com/v1/place/1154698,23424901,Malaysia,1154698,MY
+Klang,7|Town,http://where.yahooapis.com/v1/place/1154726,23424901,Malaysia,1154726,MY
+Kuala Lumpur,7|Town,http://where.yahooapis.com/v1/place/1154781,23424901,Malaysia,1154781,MY
+Calocan,7|Town,http://where.yahooapis.com/v1/place/1167715,23424934,Philippines,1167715,PH
+Makati,7|Town,http://where.yahooapis.com/v1/place/1180689,23424934,Philippines,1180689,PH
+Pasig,7|Town,http://where.yahooapis.com/v1/place/1187115,23424934,Philippines,1187115,PH
+Taguig,7|Town,http://where.yahooapis.com/v1/place/1195098,23424934,Philippines,1195098,PH
+Antipolo,7|Town,http://where.yahooapis.com/v1/place/1198785,23424934,Philippines,1198785,PH
+Cagayan de Oro,7|Town,http://where.yahooapis.com/v1/place/1199002,23424934,Philippines,1199002,PH
+Cebu City,7|Town,http://where.yahooapis.com/v1/place/1199079,23424934,Philippines,1199079,PH
+Davao City,7|Town,http://where.yahooapis.com/v1/place/1199136,23424934,Philippines,1199136,PH
+Manila,7|Town,http://where.yahooapis.com/v1/place/1199477,23424934,Philippines,1199477,PH
+Quezon City,7|Town,http://where.yahooapis.com/v1/place/1199682,23424934,Philippines,1199682,PH
+Zamboanga City,7|Town,http://where.yahooapis.com/v1/place/1199980,23424934,Philippines,1199980,PH
+Bangkok,7|Town,http://where.yahooapis.com/v1/place/1225448,23424960,Thailand,1225448,TH
+Hanoi,7|Town,http://where.yahooapis.com/v1/place/1236594,23424984,Vietnam,1236594,VN
+Hai Phong,7|Town,http://where.yahooapis.com/v1/place/1236690,23424984,Vietnam,1236690,VN
+Can Tho,7|Town,http://where.yahooapis.com/v1/place/1252351,23424984,Vietnam,1252351,VN
+Da Nang,7|Town,http://where.yahooapis.com/v1/place/1252376,23424984,Vietnam,1252376,VN
+Ho Chi Minh City,7|Town,http://where.yahooapis.com/v1/place/1252431,23424984,Vietnam,1252431,VN
+Algiers,7|Town,http://where.yahooapis.com/v1/place/1253079,23424740,Algeria,1253079,DZ
+Accra,7|Town,http://where.yahooapis.com/v1/place/1326075,23424824,Ghana,1326075,GH
+Kumasi,7|Town,http://where.yahooapis.com/v1/place/1330595,23424824,Ghana,1330595,GH
+Benin City,7|Town,http://where.yahooapis.com/v1/place/1387660,23424908,Nigeria,1387660,NG
+Ibadan,7|Town,http://where.yahooapis.com/v1/place/1393672,23424908,Nigeria,1393672,NG
+Kaduna,7|Town,http://where.yahooapis.com/v1/place/1396439,23424908,Nigeria,1396439,NG
+Kano,7|Town,http://where.yahooapis.com/v1/place/1396803,23424908,Nigeria,1396803,NG
+Lagos,7|Town,http://where.yahooapis.com/v1/place/1398823,23424908,Nigeria,1398823,NG
+Port Harcourt,7|Town,http://where.yahooapis.com/v1/place/1404447,23424908,Nigeria,1404447,NG
+Giza,7|Town,http://where.yahooapis.com/v1/place/1521643,23424802,Egypt,1521643,EG
+Cairo,7|Town,http://where.yahooapis.com/v1/place/1521894,23424802,Egypt,1521894,EG
+Alexandria,7|Town,http://where.yahooapis.com/v1/place/1522006,23424802,Egypt,1522006,EG
+Mombasa,7|Town,http://where.yahooapis.com/v1/place/1528335,23424863,Kenya,1528335,KE
+Nairobi,7|Town,http://where.yahooapis.com/v1/place/1528488,23424863,Kenya,1528488,KE
+Durban,7|Town,http://where.yahooapis.com/v1/place/1580913,23424942,South Africa,1580913,ZA
+Johannesburg,7|Town,http://where.yahooapis.com/v1/place/1582504,23424942,South Africa,1582504,ZA
+Port Elizabeth,7|Town,http://where.yahooapis.com/v1/place/1586614,23424942,South Africa,1586614,ZA
+Pretoria,7|Town,http://where.yahooapis.com/v1/place/1586638,23424942,South Africa,1586638,ZA
+Soweto,22|Unknown,http://where.yahooapis.com/v1/place/1587677,23424942,South Africa,1587677,ZA
+Cape Town,7|Town,http://where.yahooapis.com/v1/place/1591691,23424942,South Africa,1591691,ZA
+Medina,7|Town,http://where.yahooapis.com/v1/place/1937801,23424938,Saudi Arabia,1937801,SA
+Dammam,7|Town,http://where.yahooapis.com/v1/place/1939574,23424938,Saudi Arabia,1939574,SA
+Riyadh,7|Town,http://where.yahooapis.com/v1/place/1939753,23424938,Saudi Arabia,1939753,SA
+Jeddah,7|Town,http://where.yahooapis.com/v1/place/1939873,23424938,Saudi Arabia,1939873,SA
+Mecca,7|Town,http://where.yahooapis.com/v1/place/1939897,23424938,Saudi Arabia,1939897,SA
+Sharjah,7|Town,http://where.yahooapis.com/v1/place/1940119,23424738,United Arab Emirates,1940119,AE
+Abu Dhabi,7|Town,http://where.yahooapis.com/v1/place/1940330,23424738,United Arab Emirates,1940330,AE
+Dubai,7|Town,http://where.yahooapis.com/v1/place/1940345,23424738,United Arab Emirates,1940345,AE
+Haifa,7|Town,http://where.yahooapis.com/v1/place/1967449,23424852,Israel,1967449,IL
+Tel Aviv,7|Town,http://where.yahooapis.com/v1/place/1968212,23424852,Israel,1968212,IL
+Jerusalem,7|Town,http://where.yahooapis.com/v1/place/1968222,23424852,Israel,1968222,IL
+Amman,7|Town,http://where.yahooapis.com/v1/place/1968902,23424860,Jordan,1968902,JO
+Chelyabinsk,7|Town,http://where.yahooapis.com/v1/place/1997422,23424936,Russia,1997422,RU
+Khabarovsk,7|Town,http://where.yahooapis.com/v1/place/2018708,23424936,Russia,2018708,RU
+Krasnodar,7|Town,http://where.yahooapis.com/v1/place/2028717,23424936,Russia,2028717,RU
+Krasnoyarsk,7|Town,http://where.yahooapis.com/v1/place/2029043,23424936,Russia,2029043,RU
+Samara,7|Town,http://where.yahooapis.com/v1/place/2077746,23424936,Russia,2077746,RU
+Voronezh,7|Town,http://where.yahooapis.com/v1/place/2108210,23424936,Russia,2108210,RU
+Yekaterinburg,7|Town,http://where.yahooapis.com/v1/place/2112237,23424936,Russia,2112237,RU
+Irkutsk,7|Town,http://where.yahooapis.com/v1/place/2121040,23424936,Russia,2121040,RU
+Kazan,7|Town,http://where.yahooapis.com/v1/place/2121267,23424936,Russia,2121267,RU
+Moscow,7|Town,http://where.yahooapis.com/v1/place/2122265,23424936,Russia,2122265,RU
+Nizhny Novgorod,7|Town,http://where.yahooapis.com/v1/place/2122471,23424936,Russia,2122471,RU
+Novosibirsk,7|Town,http://where.yahooapis.com/v1/place/2122541,23424936,Russia,2122541,RU
+Omsk,7|Town,http://where.yahooapis.com/v1/place/2122641,23424936,Russia,2122641,RU
+Perm,7|Town,http://where.yahooapis.com/v1/place/2122814,23424936,Russia,2122814,RU
+Rostov-on-Don,7|Town,http://where.yahooapis.com/v1/place/2123177,23424936,Russia,2123177,RU
+Saint Petersburg,7|Town,http://where.yahooapis.com/v1/place/2123260,23424936,Russia,2123260,RU
+Ufa,7|Town,http://where.yahooapis.com/v1/place/2124045,23424936,Russia,2124045,RU
+Vladivostok,7|Town,http://where.yahooapis.com/v1/place/2124288,23424936,Russia,2124288,RU
+Volgograd,7|Town,http://where.yahooapis.com/v1/place/2124298,23424936,Russia,2124298,RU
+Karachi,7|Town,http://where.yahooapis.com/v1/place/2211096,23424922,Pakistan,2211096,PK
+Lahore,7|Town,http://where.yahooapis.com/v1/place/2211177,23424922,Pakistan,2211177,PK
+Multan,7|Town,http://where.yahooapis.com/v1/place/2211269,23424922,Pakistan,2211269,PK
+Rawalpindi,7|Town,http://where.yahooapis.com/v1/place/2211387,23424922,Pakistan,2211387,PK
+Faisalabad,7|Town,http://where.yahooapis.com/v1/place/2211574,23424922,Pakistan,2211574,PK
+Muscat,7|Town,http://where.yahooapis.com/v1/place/2268284,23424898,Oman,2268284,OM
+Nagpur,7|Town,http://where.yahooapis.com/v1/place/2282863,23424848,India,2282863,IN
+Lucknow,7|Town,http://where.yahooapis.com/v1/place/2295377,23424848,India,2295377,IN
+Kanpur,7|Town,http://where.yahooapis.com/v1/place/2295378,23424848,India,2295378,IN
+Patna,7|Town,http://where.yahooapis.com/v1/place/2295381,23424848,India,2295381,IN
+Ranchi,7|Town,http://where.yahooapis.com/v1/place/2295383,23424848,India,2295383,IN
+Kolkata,7|Town,http://where.yahooapis.com/v1/place/2295386,23424848,India,2295386,IN
+Srinagar,7|Town,http://where.yahooapis.com/v1/place/2295387,23424848,India,2295387,IN
+Amritsar,7|Town,http://where.yahooapis.com/v1/place/2295388,23424848,India,2295388,IN
+Jaipur,7|Town,http://where.yahooapis.com/v1/place/2295401,23424848,India,2295401,IN
+Ahmedabad,7|Town,http://where.yahooapis.com/v1/place/2295402,23424848,India,2295402,IN
+Rajkot,7|Town,http://where.yahooapis.com/v1/place/2295404,23424848,India,2295404,IN
+Surat,7|Town,http://where.yahooapis.com/v1/place/2295405,23424848,India,2295405,IN
+Bhopal,7|Town,http://where.yahooapis.com/v1/place/2295407,23424848,India,2295407,IN
+Indore,7|Town,http://where.yahooapis.com/v1/place/2295408,23424848,India,2295408,IN
+Thane,7|Town,http://where.yahooapis.com/v1/place/2295410,23424848,India,2295410,IN
+Mumbai,7|Town,http://where.yahooapis.com/v1/place/2295411,23424848,India,2295411,IN
+Pune,7|Town,http://where.yahooapis.com/v1/place/2295412,23424848,India,2295412,IN
+Hyderabad,7|Town,http://where.yahooapis.com/v1/place/2295414,23424848,India,2295414,IN
+Bangalore,7|Town,http://where.yahooapis.com/v1/place/2295420,23424848,India,2295420,IN
+Chennai,7|Town,http://where.yahooapis.com/v1/place/2295424,23424848,India,2295424,IN
+Mersin,7|Town,http://where.yahooapis.com/v1/place/2323778,23424969,Turkey,2323778,TR
+Adana,7|Town,http://where.yahooapis.com/v1/place/2343678,23424969,Turkey,2343678,TR
+Ankara,7|Town,http://where.yahooapis.com/v1/place/2343732,23424969,Turkey,2343732,TR
+Antalya,7|Town,http://where.yahooapis.com/v1/place/2343733,23424969,Turkey,2343733,TR
+Bursa,7|Town,http://where.yahooapis.com/v1/place/2343843,23424969,Turkey,2343843,TR
+Diyarbakır,7|Town,http://where.yahooapis.com/v1/place/2343932,23424969,Turkey,2343932,TR
+Eskişehir,7|Town,http://where.yahooapis.com/v1/place/2343980,23424969,Turkey,2343980,TR
+Gaziantep,7|Town,http://where.yahooapis.com/v1/place/2343999,23424969,Turkey,2343999,TR
+Istanbul,7|Town,http://where.yahooapis.com/v1/place/2344116,23424969,Turkey,2344116,TR
+Izmir,7|Town,http://where.yahooapis.com/v1/place/2344117,23424969,Turkey,2344117,TR
+Kayseri,7|Town,http://where.yahooapis.com/v1/place/2344174,23424969,Turkey,2344174,TR
+Konya,7|Town,http://where.yahooapis.com/v1/place/2344210,23424969,Turkey,2344210,TR
+Okinawa,7|Town,http://where.yahooapis.com/v1/place/2345896,23424856,Japan,2345896,JP
+Daejeon,7|Town,http://where.yahooapis.com/v1/place/2345975,23424868,Korea,2345975,KR
+Auckland,7|Town,http://where.yahooapis.com/v1/place/2348079,23424916,New Zealand,2348079,NZ
+Albuquerque,7|Town,http://where.yahooapis.com/v1/place/2352824,23424977,United States,2352824,US
+Atlanta,7|Town,http://where.yahooapis.com/v1/place/2357024,23424977,United States,2357024,US
+Austin,7|Town,http://where.yahooapis.com/v1/place/2357536,23424977,United States,2357536,US
+Baltimore,7|Town,http://where.yahooapis.com/v1/place/2358820,23424977,United States,2358820,US
+Baton Rouge,7|Town,http://where.yahooapis.com/v1/place/2359991,23424977,United States,2359991,US
+Birmingham,7|Town,http://where.yahooapis.com/v1/place/2364559,23424977,United States,2364559,US
+Boston,7|Town,http://where.yahooapis.com/v1/place/2367105,23424977,United States,2367105,US
+Charlotte,7|Town,http://where.yahooapis.com/v1/place/2378426,23424977,United States,2378426,US
+Chicago,7|Town,http://where.yahooapis.com/v1/place/2379574,23424977,United States,2379574,US
+Cincinnati,7|Town,http://where.yahooapis.com/v1/place/2380358,23424977,United States,2380358,US
+Cleveland,7|Town,http://where.yahooapis.com/v1/place/2381475,23424977,United States,2381475,US
+Colorado Springs,7|Town,http://where.yahooapis.com/v1/place/2383489,23424977,United States,2383489,US
+Columbus,7|Town,http://where.yahooapis.com/v1/place/2383660,23424977,United States,2383660,US
+Dallas-Ft. Worth,7|Town,http://where.yahooapis.com/v1/place/2388929,23424977,United States,2388929,US
+Denver,7|Town,http://where.yahooapis.com/v1/place/2391279,23424977,United States,2391279,US
+Detroit,7|Town,http://where.yahooapis.com/v1/place/2391585,23424977,United States,2391585,US
+El Paso,7|Town,http://where.yahooapis.com/v1/place/2397816,23424977,United States,2397816,US
+Fresno,7|Town,http://where.yahooapis.com/v1/place/2407517,23424977,United States,2407517,US
+Greensboro,7|Town,http://where.yahooapis.com/v1/place/2414469,23424977,United States,2414469,US
+Harrisburg,7|Town,http://where.yahooapis.com/v1/place/2418046,23424977,United States,2418046,US
+Honolulu,7|Town,http://where.yahooapis.com/v1/place/2423945,23424977,United States,2423945,US
+Houston,7|Town,http://where.yahooapis.com/v1/place/2424766,23424977,United States,2424766,US
+Indianapolis,7|Town,http://where.yahooapis.com/v1/place/2427032,23424977,United States,2427032,US
+Jackson,7|Town,http://where.yahooapis.com/v1/place/2428184,23424977,United States,2428184,US
+Jacksonville,7|Town,http://where.yahooapis.com/v1/place/2428344,23424977,United States,2428344,US
+Kansas City,7|Town,http://where.yahooapis.com/v1/place/2430683,23424977,United States,2430683,US
+Las Vegas,7|Town,http://where.yahooapis.com/v1/place/2436704,23424977,United States,2436704,US
+Long Beach,7|Town,http://where.yahooapis.com/v1/place/2441472,23424977,United States,2441472,US
+Los Angeles,7|Town,http://where.yahooapis.com/v1/place/2442047,23424977,United States,2442047,US
+Louisville,7|Town,http://where.yahooapis.com/v1/place/2442327,23424977,United States,2442327,US
+Memphis,7|Town,http://where.yahooapis.com/v1/place/2449323,23424977,United States,2449323,US
+Mesa,7|Town,http://where.yahooapis.com/v1/place/2449808,23424977,United States,2449808,US
+Miami,7|Town,http://where.yahooapis.com/v1/place/2450022,23424977,United States,2450022,US
+Milwaukee,7|Town,http://where.yahooapis.com/v1/place/2451822,23424977,United States,2451822,US
+Minneapolis,7|Town,http://where.yahooapis.com/v1/place/2452078,23424977,United States,2452078,US
+Nashville,7|Town,http://where.yahooapis.com/v1/place/2457170,23424977,United States,2457170,US
+New Haven,7|Town,http://where.yahooapis.com/v1/place/2458410,23424977,United States,2458410,US
+New Orleans,7|Town,http://where.yahooapis.com/v1/place/2458833,23424977,United States,2458833,US
+New York,7|Town,http://where.yahooapis.com/v1/place/2459115,23424977,United States,2459115,US
+Norfolk,7|Town,http://where.yahooapis.com/v1/place/2460389,23424977,United States,2460389,US
+Oklahoma City,7|Town,http://where.yahooapis.com/v1/place/2464592,23424977,United States,2464592,US
+Omaha,7|Town,http://where.yahooapis.com/v1/place/2465512,23424977,United States,2465512,US
+Orlando,7|Town,http://where.yahooapis.com/v1/place/2466256,23424977,United States,2466256,US
+Philadelphia,7|Town,http://where.yahooapis.com/v1/place/2471217,23424977,United States,2471217,US
+Phoenix,7|Town,http://where.yahooapis.com/v1/place/2471390,23424977,United States,2471390,US
+Pittsburgh,7|Town,http://where.yahooapis.com/v1/place/2473224,23424977,United States,2473224,US
+Portland,7|Town,http://where.yahooapis.com/v1/place/2475687,23424977,United States,2475687,US
+Providence,7|Town,http://where.yahooapis.com/v1/place/2477058,23424977,United States,2477058,US
+Raleigh,7|Town,http://where.yahooapis.com/v1/place/2478307,23424977,United States,2478307,US
+Richmond,7|Town,http://where.yahooapis.com/v1/place/2480894,23424977,United States,2480894,US
+Sacramento,7|Town,http://where.yahooapis.com/v1/place/2486340,23424977,United States,2486340,US
+St. Louis,7|Town,http://where.yahooapis.com/v1/place/2486982,23424977,United States,2486982,US
+Salt Lake City,7|Town,http://where.yahooapis.com/v1/place/2487610,23424977,United States,2487610,US
+San Antonio,7|Town,http://where.yahooapis.com/v1/place/2487796,23424977,United States,2487796,US
+San Diego,7|Town,http://where.yahooapis.com/v1/place/2487889,23424977,United States,2487889,US
+San Francisco,7|Town,http://where.yahooapis.com/v1/place/2487956,23424977,United States,2487956,US
+San Jose,7|Town,http://where.yahooapis.com/v1/place/2488042,23424977,United States,2488042,US
+Seattle,7|Town,http://where.yahooapis.com/v1/place/2490383,23424977,United States,2490383,US
+Tallahassee,7|Town,http://where.yahooapis.com/v1/place/2503713,23424977,United States,2503713,US
+Tampa,7|Town,http://where.yahooapis.com/v1/place/2503863,23424977,United States,2503863,US
+Tucson,7|Town,http://where.yahooapis.com/v1/place/2508428,23424977,United States,2508428,US
+Virginia Beach,7|Town,http://where.yahooapis.com/v1/place/2512636,23424977,United States,2512636,US
+Washington,7|Town,http://where.yahooapis.com/v1/place/2514815,23424977,United States,2514815,US
+Osaka,7|Town,http://where.yahooapis.com/v1/place/15015370,23424856,Japan,15015370,JP
+Kyoto,7|Town,http://where.yahooapis.com/v1/place/15015372,23424856,Japan,15015372,JP
+Delhi,7|Town,http://where.yahooapis.com/v1/place/20070458,23424848,India,20070458,IN
+United Arab Emirates,12|Country,http://where.yahooapis.com/v1/place/23424738,1,United Arab Emirates,23424738,AE
+Algeria,12|Country,http://where.yahooapis.com/v1/place/23424740,1,Algeria,23424740,DZ
+Argentina,12|Country,http://where.yahooapis.com/v1/place/23424747,1,Argentina,23424747,AR
+Australia,12|Country,http://where.yahooapis.com/v1/place/23424748,1,Australia,23424748,AU
+Austria,12|Country,http://where.yahooapis.com/v1/place/23424750,1,Austria,23424750,AT
+Bahrain,12|Country,http://where.yahooapis.com/v1/place/23424753,1,Bahrain,23424753,BH
+Belgium,12|Country,http://where.yahooapis.com/v1/place/23424757,1,Belgium,23424757,BE
+Belarus,12|Country,http://where.yahooapis.com/v1/place/23424765,1,Belarus,23424765,BY
+Brazil,12|Country,http://where.yahooapis.com/v1/place/23424768,1,Brazil,23424768,BR
+Canada,12|Country,http://where.yahooapis.com/v1/place/23424775,1,Canada,23424775,CA
+Chile,12|Country,http://where.yahooapis.com/v1/place/23424782,1,Chile,23424782,CL
+Colombia,12|Country,http://where.yahooapis.com/v1/place/23424787,1,Colombia,23424787,CO
+Denmark,12|Country,http://where.yahooapis.com/v1/place/23424796,1,Denmark,23424796,DK
+Dominican Republic,12|Country,http://where.yahooapis.com/v1/place/23424800,1,Dominican Republic,23424800,DO
+Ecuador,12|Country,http://where.yahooapis.com/v1/place/23424801,1,Ecuador,23424801,EC
+Egypt,12|Country,http://where.yahooapis.com/v1/place/23424802,1,Egypt,23424802,EG
+Ireland,12|Country,http://where.yahooapis.com/v1/place/23424803,1,Ireland,23424803,IE
+France,12|Country,http://where.yahooapis.com/v1/place/23424819,1,France,23424819,FR
+Ghana,12|Country,http://where.yahooapis.com/v1/place/23424824,1,Ghana,23424824,GH
+Germany,12|Country,http://where.yahooapis.com/v1/place/23424829,1,Germany,23424829,DE
+Greece,12|Country,http://where.yahooapis.com/v1/place/23424833,1,Greece,23424833,GR
+Guatemala,12|Country,http://where.yahooapis.com/v1/place/23424834,1,Guatemala,23424834,GT
+Indonesia,12|Country,http://where.yahooapis.com/v1/place/23424846,1,Indonesia,23424846,ID
+India,12|Country,http://where.yahooapis.com/v1/place/23424848,1,India,23424848,IN
+Israel,12|Country,http://where.yahooapis.com/v1/place/23424852,1,Israel,23424852,IL
+Italy,12|Country,http://where.yahooapis.com/v1/place/23424853,1,Italy,23424853,IT
+Japan,12|Country,http://where.yahooapis.com/v1/place/23424856,1,Japan,23424856,JP
+Jordan,12|Country,http://where.yahooapis.com/v1/place/23424860,1,Jordan,23424860,JO
+Kenya,12|Country,http://where.yahooapis.com/v1/place/23424863,1,Kenya,23424863,KE
+Korea,12|Country,http://where.yahooapis.com/v1/place/23424868,1,Korea,23424868,KR
+Kuwait,12|Country,http://where.yahooapis.com/v1/place/23424870,1,Kuwait,23424870,KW
+Lebanon,12|Country,http://where.yahooapis.com/v1/place/23424873,1,Lebanon,23424873,LB
+Latvia,12|Country,http://where.yahooapis.com/v1/place/23424874,1,Latvia,23424874,LV
+Oman,12|Country,http://where.yahooapis.com/v1/place/23424898,1,Oman,23424898,OM
+Mexico,12|Country,http://where.yahooapis.com/v1/place/23424900,1,Mexico,23424900,MX
+Malaysia,12|Country,http://where.yahooapis.com/v1/place/23424901,1,Malaysia,23424901,MY
+Nigeria,12|Country,http://where.yahooapis.com/v1/place/23424908,1,Nigeria,23424908,NG
+Netherlands,12|Country,http://where.yahooapis.com/v1/place/23424909,1,Netherlands,23424909,NL
+Norway,12|Country,http://where.yahooapis.com/v1/place/23424910,1,Norway,23424910,NO
+New Zealand,12|Country,http://where.yahooapis.com/v1/place/23424916,1,New Zealand,23424916,NZ
+Peru,12|Country,http://where.yahooapis.com/v1/place/23424919,1,Peru,23424919,PE
+Pakistan,12|Country,http://where.yahooapis.com/v1/place/23424922,1,Pakistan,23424922,PK
+Poland,12|Country,http://where.yahooapis.com/v1/place/23424923,1,Poland,23424923,PL
+Panama,12|Country,http://where.yahooapis.com/v1/place/23424924,1,Panama,23424924,PA
+Portugal,12|Country,http://where.yahooapis.com/v1/place/23424925,1,Portugal,23424925,PT
+Qatar,12|Country,http://where.yahooapis.com/v1/place/23424930,1,Qatar,23424930,QA
+Philippines,12|Country,http://where.yahooapis.com/v1/place/23424934,1,Philippines,23424934,PH
+Puerto Rico,12|Country,http://where.yahooapis.com/v1/place/23424935,1,Puerto Rico,23424935,PR
+Russia,12|Country,http://where.yahooapis.com/v1/place/23424936,1,Russia,23424936,RU
+Saudi Arabia,12|Country,http://where.yahooapis.com/v1/place/23424938,1,Saudi Arabia,23424938,SA
+South Africa,12|Country,http://where.yahooapis.com/v1/place/23424942,1,South Africa,23424942,ZA
+Singapore,12|Country,http://where.yahooapis.com/v1/place/23424948,1,Singapore,23424948,SG
+Spain,12|Country,http://where.yahooapis.com/v1/place/23424950,1,Spain,23424950,ES
+Sweden,12|Country,http://where.yahooapis.com/v1/place/23424954,1,Sweden,23424954,SE
+Switzerland,12|Country,http://where.yahooapis.com/v1/place/23424957,1,Switzerland,23424957,CH
+Thailand,12|Country,http://where.yahooapis.com/v1/place/23424960,1,Thailand,23424960,TH
+Turkey,12|Country,http://where.yahooapis.com/v1/place/23424969,1,Turkey,23424969,TR
+United Kingdom,12|Country,http://where.yahooapis.com/v1/place/23424975,1,United Kingdom,23424975,GB
+Ukraine,12|Country,http://where.yahooapis.com/v1/place/23424976,1,Ukraine,23424976,UA
+United States,12|Country,http://where.yahooapis.com/v1/place/23424977,1,United States,23424977,US
+Venezuela,12|Country,http://where.yahooapis.com/v1/place/23424982,1,Venezuela,23424982,VE
+Vietnam,12|Country,http://where.yahooapis.com/v1/place/23424984,1,Vietnam,23424984,VN
+Petaling,7|Town,http://where.yahooapis.com/v1/place/56013632,23424901,Malaysia,56013632,MY
+Hulu Langat,7|Town,http://where.yahooapis.com/v1/place/56013645,23424901,Malaysia,56013645,MY
+Ahsa,9|Unknown,http://where.yahooapis.com/v1/place/56120136,23424938,Saudi Arabia,56120136,SA
+Okayama,7|Town,http://where.yahooapis.com/v1/place/90036018,23424856,Japan,90036018,JP

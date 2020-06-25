@@ -1,0 +1,115 @@
+
+
+import tweepy 
+import json
+import pandas as pd
+import numpy as np
+import os
+
+
+
+#Verify Credentials
+consumer_key = "MMOm1EDQPrq4UCu2W3gWItlNl" 
+consumer_secret = "yud6w8prkqCpZXizrTkTNbWqzUabLSO2Pdi8jOWhOrpdtDIhYl"
+access_key = "993820627885637632-p642kGO3bO8hYy1Xph5tKOnXNQ0DJ1v"
+access_secret = "PSl4QnAP1leuaVGKQ3yi5S77nhcb02P0fmq1vuLTlOjgJ"
+
+
+
+
+
+os.chdir(r"C:\Users\DELL\Desktop\trending")
+
+
+# In[16]:
+
+
+auth = tweepy.OAuthHandler(consumer_key, consumer_secret)  
+auth.set_access_token(access_key, access_secret) 
+  
+api = tweepy.API(auth)
+
+
+# In[17]:
+
+
+def get_create(woeid):
+    
+    trends = api.trends_place(id = woeid , count = 10) 
+  
+    print("The top trends for the location are :") 
+    
+    i = 1
+    for value in trends: 
+        for trend in value['trends']: 
+            print(str(i) + ")  "  + trend['name'])
+            i = i + 1
+
+
+# In[18]:
+
+
+df=pd.read_csv(r'codebeautify.csv')
+
+
+# In[19]:
+
+
+Availaible_Country = df['country'].unique()
+print(Availaible_Country)
+
+
+# In[20]:
+
+
+df_copy = df.copy()
+df.drop('url', axis = 1, inplace=True)
+df.drop('parentid', axis = 1, inplace=True)
+df.drop('countryCode', axis = 1, inplace=True)
+df.drop('placeType', axis = 1, inplace=True)
+df.drop('woeid', axis = 1, inplace=True)
+country = input("Enter the Country for which you want to see:", )
+print('\n' + "Availaible Cities")
+df.loc[(df.country == country)]
+
+
+# In[21]:
+
+
+df_copy.drop('parentid', axis = 1, inplace=True)
+df_copy.drop('countryCode', axis = 1, inplace=True)
+df_copy.drop('placeType', axis = 1, inplace=True)
+df_copy.drop('country', axis = 1, inplace=True)
+df_copy.drop('url', axis = 1, inplace=True)
+
+
+# In[22]:
+
+
+citty = input("Entry the City for which you want to see: ")
+rslt_df = df_copy.loc[df_copy['name'] == citty] 
+
+
+# In[23]:
+
+
+if __name__ == '__main__': 
+     
+          rslt_df = df_copy.loc[df_copy['name'] == citty] 
+          
+          output = rslt_df.iat[0,1 ]
+          
+          get_create(output)
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
