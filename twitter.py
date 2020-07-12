@@ -7,10 +7,10 @@ import re
 
 
 #Verify Credentials
-consumer_key = "MMOm1EDQPrq4UCu2W3gWItlNl" 
-consumer_secret = "yud6w8prkqCpZXizrTkTNbWqzUabLSO2Pdi8jOWhOrpdtDIhYl"
-access_key = "993820627885637632-p642kGO3bO8hYy1Xph5tKOnXNQ0DJ1v"
-access_secret = "PSl4QnAP1leuaVGKQ3yi5S77nhcb02P0fmq1vuLTlOjgJ"
+consumer_key = "REPLACE_ME" 
+consumer_secret = "REPLACE_ME"
+access_key = "REPLACE_ME"
+access_secret = "REPLACE_ME"
 
 
 
